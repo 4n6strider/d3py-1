@@ -1,3 +1,8 @@
+.. warning::
+
+   Currently, the package is just a quick experimental skeleton for personal use, not really usable.
+
+
 D3Py
 ====
 
