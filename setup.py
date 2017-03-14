@@ -47,7 +47,7 @@ if __name__ == "__main__":
         description      = DESCRIPTION,
         license          = LICENSE,
         url              = URL,
-        long_description = read('README.md'),
+        long_description = read('README.rst'),
         keywords         = [
             'visualization',
         ],
